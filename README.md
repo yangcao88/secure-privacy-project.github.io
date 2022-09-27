@@ -1,9 +1,7 @@
 # secure-privacy.github.io
 
-* 「実応用に即したプライバシー保護解析とセキュアデータ基盤」 ホームページ用レポジトリ
+* The repository of homepage for the CREST project 「実応用に即したプライバシー保護解析とセキュアデータ基盤」
 
-* docs/ 下にホームページを置く
-* 注: それ以外のページも github 上では public 状態
-
-
+* put web pages under docs/ directory
+* Note: other files are visible (public) on the github
 
