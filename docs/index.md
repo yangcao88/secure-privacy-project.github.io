@@ -10,10 +10,10 @@
 ## 体制
 
 * 代表
- * 東京大学 [情報理工学系研究科](https://www.i.u-tokyo.ac.jp/) [電子情報学専攻] (https://www.i.u-tokyo.ac.jp/edu/course/ice/index.shtml) [田浦健次朗](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/)
+ * [田浦健次朗](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/) 東京大学大学院 [情報理工学系研究科](https://www.i.u-tokyo.ac.jp/) [電子情報学専攻](https://www.i.u-tokyo.ac.jp/edu/course/ice/index.shtml) 
 * 主たる研究分担者
- * 京都大学 [吉川正俊] (https://www.db.soc.i.kyoto-u.ac.jp/~yoshikawa/)
- * 東京大学 [附属病院] (https://www.h.u-tokyo.ac.jp/) [放射線科](http://www.ut-radiology.umin.jp/) 花岡昇平
+ * [吉川正俊](https://www.db.soc.i.kyoto-u.ac.jp/~yoshikawa/) 京都大学大学院 [情報学研究科](https://www.i.kyoto-u.ac.jp/) [社会情報学専攻](https://www.soc.i.kyoto-u.ac.jp/)
+ * 東京大学 [附属病院](https://www.h.u-tokyo.ac.jp/) [放射線科](http://www.ut-radiology.umin.jp/) 花岡昇平
  * 東京大学 [情報基盤センター](https://www.itc.u-tokyo.ac.jp/) [塙敏博](https://www.cspp.cc.u-tokyo.ac.jp/hanawa/)
  * 北海道大学 曹洋
 * 共同研究者
