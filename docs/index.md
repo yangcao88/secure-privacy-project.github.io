@@ -15,7 +15,7 @@
  * [吉川正俊](https://www.db.soc.i.kyoto-u.ac.jp/~yoshikawa/) 京都大学大学院 [情報学研究科](https://www.i.kyoto-u.ac.jp/) [社会情報学専攻](https://www.soc.i.kyoto-u.ac.jp/)
  * 花岡昇平 東京大学 [附属病院](https://www.h.u-tokyo.ac.jp/) [放射線科](http://www.ut-radiology.umin.jp/) 
  * [塙敏博](https://www.cspp.cc.u-tokyo.ac.jp/hanawa/) 東京大学 [情報基盤センター](https://www.itc.u-tokyo.ac.jp/) 
- * 曹洋 北海道大学 
+ * [曹洋](https://yangcao88.github.io/) 北海道大学 [情報科学研究院](https://www.ist.hokudai.ac.jp/) [情報理工学部門](https://www.csit.ist.hokudai.ac.jp/)
 * 共同研究者
  * ...
 
