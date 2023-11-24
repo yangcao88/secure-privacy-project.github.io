@@ -10,9 +10,9 @@
     * 柴田 寿一 - [DP-Glow](https://www.mdpi.com/2076-3417/13/18/10132) 
     * 竹永 智美 - Local differential privacy protection for multi-dimensional medical checkup data: real-world validation (under review)
     * Alam MD Ashraful - Estimation of future occurrence of HbA1c elevation with and without Differential Privacy (under review)
-    * 菊地 智博 ＠ 自治医大放射線科
+    * 菊地 智博 ＠ 自治医大放射線科 - [Synthetic data generation method for hybrid image-tabular data using two generative adversarial networks.](https://arxiv.org/abs/2308.07573)
     * 野村 行弘 ＠ [千葉大 野村研究室](https://www.cfme.chiba-u.jp/staff/detail.php?index=nomura) - [DPSGD](https://1drv.ms/i/s!AsqSQ39DdrGCjagndybXE2nYbw9F-A?e=f16Qss)
-    * 山田 藍樹 ＠ [千葉大 野村研究室](https://www.cfme.chiba-u.jp/staff/detail.php?index=nomura)
+    * 山田 藍樹 ＠ [千葉大 野村研究室](https://www.cfme.chiba-u.jp/staff/detail.php?index=nomura) - Investigation of federated learning for automated cerebral aneurysm detection in head MR angiography images
   * ほかGroupとの共同研究
     * 田浦G - [個人情報保護を強制するプログラミング基盤 の 医療への展開](https://1drv.ms/i/s!AsqSQ39DdrGCjaglCXbwSSrg55AjkA?e=LaFvEf)
     * 塙G - [セキュアな医用AIの実臨床](https://1drv.ms/i/s!AsqSQ39DdrGCjagm0QqeC-V-sBWiJA?e=VGgJRV)
