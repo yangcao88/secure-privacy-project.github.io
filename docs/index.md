@@ -1,3 +1,9 @@
+<style>
+  body {
+    font-family: Arial, sans-serif;
+  }
+</style>
+
 # [実応用に即したプライバシー保護解析とセキュアデータ基盤](https://www.jst.go.jp/kisoken/crest/project/1111114/1111114_2021.html)
 # [Privacy-Preserving Data Analysis and Secure Data Infrastructure for Real Applications](https://www.jst.go.jp/kisoken/crest/project/1111114/1111114_2021.html)
 
