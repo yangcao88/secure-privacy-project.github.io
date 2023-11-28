@@ -56,6 +56,18 @@
 ことによりプライバシー漏洩を防止する
 
 ## 柔軟なプライバシー保護データ解析・機械学習 
+このサブテーマでは、以下の項目を研究する
+*  データ保護型処理検証機能の開発．
+多数の参加者が協調してパーソナルデータの解析を安全に実施するためには，各参加者から見て他者はすべて攻撃者であるという仮定に基づいたシステムを構築する必要がある．パーソナルデータの所有者がデータを他者に渡す前に自身で確率的な雑音を印加する局所差分プライバシー (local differential privacy)はそのための重要な要素技術である．しかし，逆に他者から見た場 合は所有者が攻撃者になり得るため，所有者は他者に対して自身の雑音印加が正しく実施されていることを検証可能にする必要がある．これは，データ内容を保護した上でそのデータに対する処理を第三者が外部から検証できるという一見矛盾した二つの要求を同時に満たす課題である．本研究実施項目では，暗号化された Randomized Response などの技術を用いてデータ保護型処理検証機能を開発する．
+* データの意味を考慮した差分プライバシに基づくデータ解析．
+差分プライバシーの定義は，敵対者が攪乱後のデータから真のデータを推測できる確率を最悪の ケースに基づいて定義し，その確率をプライバシー予算(ε)と呼ばれるパラメータによって制御可能としている．もとのデータに対してプライバシー保護機構を直列又は並列に複数回適用した際のプライバシー予算(ε)も応用に即したものでない場合も多く，結果として過剰な保護を行い解析精度が向上しないという問題につながる．そこで，本研究実施項目では，より実応用に即した意味に基づくプライバシー保護定義の確立とそれを満足するプライバシー保護機構の開発を行う．特に，時空間データやグラフデータなど非構造データにおけるプライバシー定義を考える．
+
 
 ## 医療・軌跡データ実応用での実証 
+このサブテーマでは、以下の項目を研究する
+* 医療データ実応用システムにおけるプライバシ保護システム・データ解析の検証．
+本研究構想では小規模医院を含む多くの医療機関による連合学習 (federated learning)を医療 データへの実応用の重要な例と考える．たとえば，各医療機関とサーバの間で連合学習を行い画像診断の機械学習モデルを構築する場合，小規模医院のサンプル数が十分でない場合は局所モデルが不正確なものとなり得る．そのための連合学習アーキテクチャを開発する．たとえば，複数の小規模医院のデータを集めサーバとの間の中継を行う中継サーバを設け，中継サーバにおいて secure aggregation を行う手法などを開発する．
+* 軌跡データ実応用システムにおける検証
+  前述のサブトピック「柔軟なプライバシー保護データ解析・機械学習」で設計された連合学習と新しいプライバシー定義を，時空間データの文脈で検証し強化するである．時空間連合学習は，様々な位置情報サービスにおいて共有勾配のみを使用して有用なモデルを訓練する能力のため，最近集中的な研究を集めているである．複数の研究により，勾配を共有すると，勾配反転攻撃，メンバーシップ推論攻撃，画像やテキストに対するデータ抽出攻撃の対象となる可能性が示されているである．しかし，これらの攻撃は時空間連合学習においてまだ検証されていないである．加えて、既存の防御方法（例えば差分プライバシー）がこれらの攻撃を効果的に防げるかどうかは不明であるである．この研究項目では，攻撃と防御の両方の観点から，時空間連合学習における勾配からの攻撃によるプライバシー漏洩を評価することで，これらの問題に対処するである。
+　We will verify and enhance the federated learning and new privacy definitions designed in the last sub-topic in the context of spatiotemporal data. Spatio-temporal federated learning has recently raised intensive studies due to its ability to train valuable models with only shared gradients in various location-based services. Several studies have shown that shared gradients may be subject to gradient inversion attacks, membership inference attacks, and data extraction attacks on images or texts. However, these attacks have yet to be validated in spatio-temporal federated learning. In addition, it is unclear whether existing defense methods, such as Differential Privacy, can prevent these attacks effectively. In this research item, we address these problems by evaluating the privacy leakage from gradients in spatiotemporal federated learning from two perspectives: attack and defense, respectively. 
 
